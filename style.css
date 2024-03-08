@@ -1,0 +1,31 @@
+body{
+    background-color: #FFFFE8;
+}
+hr{
+    background-color:white;
+    border-style:none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    height: 0px;
+    width: 50px;
+
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+
+.bottom-container {
+    padding: 60px 0 20px;
+    margin: 60px auto 5px;
+    background-color: #66BFBF;
+  }
+
+  .copyright{
+    color: #ffffff;
+    font-size: 0.89rem;
+    padding: 20px 0;
+}
